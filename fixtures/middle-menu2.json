@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "url": "#",
+      "title": "Structure",
+      "class": "system-admin-structure",
+      "below": [
+        {
+          "url": "#",
+          "title": "Block layout"
+        },
+        {
+          "url": "#",
+          "title": "Block types"
+        },
+        {
+          "url": "#",
+          "title": "Contact forms"
+        },
+        {
+          "url": "#",
+          "title": "Content forms"
+        },
+        {
+          "url": "#",
+          "title": "Display modes",
+          "below": [
+            {
+              "url": "#",
+              "title": "Form modes"
+            },
+            {
+              "url": "#",
+              "title": "View modes"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "title": "Media types"
+        },
+        {
+          "url": "#",
+          "title": "Menus"
+        },
+        {
+          "url": "#",
+          "title": "Taxonomy"
+        },
+        {
+          "url": "#",
+          "title": "Views"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "title": "Appearance",
+      "class": "system-themes-page"
+    },
+    {
+      "url": "#",
+      "title": "Extend",
+      "class": "system-modules-list"
+    },
+    {
+      "url": "#",
+      "title": "Configuration",
+      "class": "system-admin-config",
+      "below": [
+        {
+          "url": "#",
+          "title": "People",
+          "below": [
+            {
+              "url": "#",
+              "title": "Account settings"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "title": "System",
+          "below": [
+            {
+              "url": "#",
+              "title": "Basic site settings"
+            },
+            {
+              "url": "#",
+              "title": "Cron"
+            }
+          ]
+        },
+        {
+          "url": "#",
+          "title": "Content authoring",
+          "below": [
+            {
+              "url": "#",
+              "title": "Layout builder"
+            },
+            {
+              "url": "#",
+              "title": "Text format and editors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "title": "People",
+      "class": "entity-user-collection"
+    }
+  ]
+}

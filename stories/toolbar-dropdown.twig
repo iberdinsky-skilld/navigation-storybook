@@ -1,0 +1,24 @@
+{% include '../navigation/templates/toolbar-button.html.twig' with {
+  attributes: create_attribute({'aria-expanded': false, 'aria-controls': 'toolbar-dropdown-id', 'data-drupal-dropdown': 'true'}),
+  text: 'More options',
+  extra_classes: 'toolbar-button--expand--down toolbar-button--arrow-first toolbar-button--weight--400 toolbar-button--tertiary--expanded',
+} only %}
+<div class="toolbar-dropdown__menu" id="toolbar-dropdown-id">
+  <ul class="toolbar-dropdown__list">
+    <li class="toolbar-dropdown__item">
+      <a href="#" class="toolbar-dropdown__link">List item</a>
+    </li>
+    <li class="toolbar-dropdown__item">
+      <a href="#" class="toolbar-dropdown__link">List item</a>
+    </li>
+    <li class="toolbar-dropdown__item">
+      <a href="#" class="toolbar-dropdown__link">List item</a>
+    </li>
+    <li class="toolbar-dropdown__item">
+      <a href="#" class="toolbar-dropdown__link">List item</a>
+    </li>
+    <li class="toolbar-dropdown__item">
+      <a href="#" class="toolbar-dropdown__link">List item</a>
+    </li>
+  </ul>
+</div>

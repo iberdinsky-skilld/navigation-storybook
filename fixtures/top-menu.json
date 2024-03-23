@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "url": "#",
+      "title": "Shortcuts",
+      "class": "shortcuts",
+      "below": [
+        {
+          "url": "#",
+          "title": "Add content"
+        },
+        {
+          "url": "#",
+          "title": "All content"
+        }
+      ]
+    }
+  ]
+}

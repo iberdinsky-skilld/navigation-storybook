@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "url": "#",
+      "title": "Create",
+      "class": "navigation-create",
+      "below": [
+        {
+          "url": "#",
+          "title": "Article"
+        },
+        {
+          "url": "#",
+          "title": "Basic page"
+        },
+        {
+          "url": "#",
+          "title": "Recipe"
+        },
+        {
+          "url": "#",
+          "title": "Document"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "title": "Blocks",
+      "class": "navigation-blocks"
+    },
+    {
+      "url": "#",
+      "title": "Content",
+      "class": "navigation-content"
+    },
+    {
+      "url": "#",
+      "title": "Files",
+      "class": "navigation-files"
+    },
+    {
+      "url": "#",
+      "title": "Media",
+      "class": "navigation-media"
+    }
+  ]
+}

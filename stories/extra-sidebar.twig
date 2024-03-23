@@ -1,0 +1,11 @@
+<div class="admin-extra-toolbar" id="admin-extra-toolbar">
+  <div class="admin-extra-toolbar__displace-placeholder"></div>
+  <h2>Admin extra toolbar</2>
+</div>
+<script>
+  if (localStorage.getItem('Drupal.navigation.SidebarExtraExpanded') !== 'false'
+    && (window.matchMedia('(min-width: 1024px)').matches) ) {
+    document.documentElement.setAttribute('data-admin-extra-toolbar', 'expanded');
+  }
+</script>
+
